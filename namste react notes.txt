@@ -1,0 +1,13 @@
+^ - new version of parcel comes parcel will automatically update it to next minor version.
+~ - new major version update automatically. and major version may break the changes in app.
+
+
+npm init -  this command gerates package.json file and craetes the proejct as a ract project.
+
+package.json - it keep the track of all packages version.
+
+package-lock.json - it keep track of keeps the record of exact version of depedencies we are using.
+
+npx parcel index.html -- ignotes the app and creates the url
+
+parcel.org

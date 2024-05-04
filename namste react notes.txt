@@ -11,3 +11,15 @@ package-lock.json - it keep track of keeps the record of exact version of depede
 npx parcel index.html -- ignotes the app and creates the url
 
 parcel.org
+
+JSX gets trnspiled by Babel transpiler to javascript.
+
+At the end of the day everything is javascript.
+
+const {resName,cuisine} = props;  -- destructuring of data
+
+Config driven UI- design website based on data, website driven by data.
+
+ We need to pass unique key while looping over list in javascript.
+ 
+ This is very important.

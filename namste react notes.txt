@@ -23,3 +23,30 @@ Config driven UI- design website based on data, website driven by data.
  We need to pass unique key while looping over list in javascript.
  
  This is very important.
+ 
+ NAmed export and default export
+ 
+ Named import and default import.
+ 
+ state variable - super powerfull variable.
+ 
+ Hook is just normla javascript utility function given by react has superpower
+ 
+ 1. useState    - superpowerful state vaiable in react
+ 2. useEffect  -
+ 
+ 
+ whenever state varibale updates react rerenders the components.
+ 
+ 
+ Reconciliation algorithm react uses (aks React fiber).
+ 
+ Virtual DOM is avaialbe for actual DOM in react.
+ 
+ Diff algorithm - tried to find the difference btween old and new vitual DOM and actually updates the DOM on every rendering cycle.
+ 
+ 
+ 
+ 
+ 
+ 
